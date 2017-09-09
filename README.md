@@ -1,4 +1,6 @@
 # cn-deep-learning
+HJP 分枝是完成的全部作业，共五项
+
 
 优达学城[深度学习基石纳米学位](https://cn.udacity.com/course/deep-learning-nanodegree-foundation--nd101/)项目文档。
 
